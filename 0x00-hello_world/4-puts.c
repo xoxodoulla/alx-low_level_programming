@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *main - entry point
- *nda
- *Return : 0 after printing the function
+ *main - function begins
+ *
+ *Return :function ends
  */
 int main(void)
 {
